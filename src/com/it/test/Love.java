@@ -5,5 +5,6 @@ public class Love {
         System.out.println("hello my love!");
         System.out.println("hello myaaaaa love!");
         System.out.println("hello myaaaaa love!");
+        System.out.println("hello myaaaaa love!");
     }
 }
